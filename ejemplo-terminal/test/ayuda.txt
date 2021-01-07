@@ -1,0 +1,2 @@
+# Readme the ayuda.txt
+prueba edicion doc con nano 
